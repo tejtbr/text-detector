@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266005643290",
+    "project_id": "text-recognition-app-fea8f",
+    "storage_bucket": "text-recognition-app-fea8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266005643290:android:51b284fc5471d4fdb051a3",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266005643290-4b3pp1u22b79mca8pm681v5t1sjnelvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwrL6PIJcjVXywuY50QkiBBvUY0JtnIBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266005643290-4b3pp1u22b79mca8pm681v5t1sjnelvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

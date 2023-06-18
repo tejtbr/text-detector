@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">text recognition app</string>
+    <string name="click_here_to_scan">Click Here to Scan</string>
+    <string name="welcome_to_text_detector">Welcome to Text Detector</string>
+</resources>
